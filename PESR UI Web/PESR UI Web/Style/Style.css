@@ -1,0 +1,72 @@
+﻿body {
+}
+
+#headerFixed {
+    margin-bottom: 5%;
+}
+
+.selection {
+    margin-left: 14%;
+    margin-right: 14%;
+    //background-color: red;
+}
+
+#center {
+    padding-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #292c2f;
+    border-radius: 10px;
+}
+
+#centerServerReg {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 4%;
+    padding-top: 1%;
+    background-color: #292c2f;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.lForm {
+    font-family: 'Raleway',sans-serif;
+    color: white;
+    font-size: 18px;
+}
+
+.titleBig {
+    color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center;
+    margin-bottom: 15%;
+}
+
+.sRL {
+    color: #ffffff; 
+    font-family: 'Raleway',sans-serif; 
+    margin-bottom: 5%;
+}
+
+.btn {
+    margin-top: 5%;
+    width: 30%;
+}
+
+#acceptBtn {
+    width: 100%;
+    margin-top: 40%;
+    margin-bottom: 10%;
+    //margin-left: 30%;
+}
+
+#btnAccept {
+    margin-left: 30%;
+    margin-right: 30%;
+    //background-color: black;
+}
+
+.panel {
+    margin-left: 10%;
+    margin-right: 10%;
+}

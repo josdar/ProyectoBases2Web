@@ -1,0 +1,33 @@
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\ApplicationInsights.config
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\csc.exe
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\vbc.exe
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\VBCSCompiler.exe
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\PESR UI Web.dll.config
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\PESR UI Web.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\PESR UI Web.pdb
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.Web.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.Web.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\obj\Debug\PESR UI Web.csprojResolveAssemblyReference.cache
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\obj\Debug\PESR UI Web.dll
+c:\users\jose david\documents\visual studio 2015\Projects\PESR UI Web\PESR UI Web\obj\Debug\PESR UI Web.pdb

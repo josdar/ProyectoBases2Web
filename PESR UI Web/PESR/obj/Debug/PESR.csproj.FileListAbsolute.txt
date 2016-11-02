@@ -1,0 +1,7 @@
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\bin\Debug\PESR.dll.config
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\bin\Debug\PESR.dll
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\bin\Debug\PESR.pdb
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\obj\Debug\PESR.csprojResolveAssemblyReference.cache
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\obj\Debug\PESR.dll
+C:\Users\Jose David\Documents\GitHub\proyectoBases2\PESR\obj\Debug\PESR.pdb
